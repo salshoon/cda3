@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding:0;
+
+}
+ul, ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+.active-link{
+    color: #F50808 ;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1180px;
+    margin: 0 auto;
+}
+header ul{
+    display: flex;
+}
+header .middle-link {
+    margin: 0 121px;
+}
+
+
+section.seqcia1 img {
+	width: 100%;
+}
+.content {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 130px;
+    margin-right: 530px;
+}
+.content2 {
+  
+    display: flex;
+    background-color: #EBEBF0;
+    align-items: center;
+    justify-content: center;
+    height: 439px;
+}
+.head{
+
+    margin-bottom: 24px;
+    color: #17326E;
+}
+.content .text {
+    color:#090346 ; 
+
+}
+.middle-car{
+    margin: 0 20px;
+
+}
+section.our-history{
+    display: flex;
+    background-color:#EBEBF0 ;
+    max-width: 100%;
+    height: 516px;
+    
+    align-items: center;
+}
+
+.section-head{
+    color: #19126B;
+    font-size: 36px;
+    margin-bottom: 24px; 
+}
+.section-text{ color: #090346;
+    font-size: 20px;
+
+}
+.history{
+    margin-left: 130px;
+}
+.ford-car{
+    margin-left:95px;
+    margin-right:130px;
+}
+
+section.our-history h2{
+    color:#19126B;
+    margin-top: 73px; 
+    margin-bottom: 24px;
+   
+}
+section.our-history p{
+    color:#090346 ;
+}
+section.seqcia3 h3{
+    color:#19126B ;
+}
+section.seqcia3 p{
+    color:#090346 ;
+}
+.contact-info {
+    max-height: 546px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 78px;
+    background-color:#EBEBF0 ;
+}
+.contact {
+    /* display: flex; */
+    width: 323px;
+height: 142px;
+}
+iframe {
+    padding-bottom: 94px;
+}
+.color-aqua {
+    color: #0D69A9;
+}
+.title { 
+color: #19126B;
+font-size: 36px;
+margin-bottom: 24px;
+}
+.item {
+    display: flex;
+    color: #000000;
+    font-style: normal;
+}
+footer {
+    background-color:#19126B ;
+    height: 161px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 130px;
+}
+footer ul {
+    display: flex;
+    align-items: ;
+}
+footer .copyright {
+    color: #FFFFFF;
+}
+footer li{
+    margin: 0 20px;
+}
